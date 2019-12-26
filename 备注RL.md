@@ -4,3 +4,23 @@ REINFORCE:1992-Simple statistical gradientfollowing algorithms for connectionist
 PPO：2017-Proximal policy optimization algorithms
 PPO's self-imitation variant: 2018- Self-imitation learning
 HRL:2017-Composite task-completion dialogue policy learning via hierarchical deep reinforcement learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
